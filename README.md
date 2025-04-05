@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Developer | 💻 Software Engineering <br><br>🔧 Experience: 1 year at Qutham Technologies as a Full-Stack MEAN Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: Entrepreneurship & AI<br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech
+💻 Software Engineering || 👨‍💻 Full-Stack Developer <br><br>🔧 Experience: 1 year at Qutham Technologies as a Full-Stack MEAN Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: Entrepreneurship & AI<br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech
 
 
 ## 🌐 Socials:
